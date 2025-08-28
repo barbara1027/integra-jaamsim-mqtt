@@ -1,0 +1,16 @@
+{
+    "java.configuration.runtimes": [
+        {
+            "name": "JavaSE-17",
+            "path": "/usr/lib/jvm/java-17-openjdk-arm64",
+            "default": true
+        }
+    ],
+    "java.project.referencedLibraries": [
+        "jar/org.eclipse.paho.client.mqttv3.jar",
+        "jar/jogl-all.jar",
+        "jar/gluegen-rt.jar",
+        "jar/json.jar",
+        "jar/jogl-all .jar"
+    ]
+}
